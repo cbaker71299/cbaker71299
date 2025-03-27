@@ -79,6 +79,6 @@ I am a dedicated and resilient cybersecurity professional with a strong passion 
 **LinkedIn**: [linkedin.com/in/courtneybaker71299](https://www.linkedin.com/in/courtneybaker71299/)  
 
 ---
-*Feel free to check out my repositories to see more details on my projects*
-*Let's connect and collaborate on cybersecurity, cloud security, and automation projects!*
+*Feel free to check out my repositories to see more details on my projects. *
+*And don't be shy! Let's connect and collaborate on cybersecurity, cloud security, and automation projects!*
 
