@@ -27,10 +27,17 @@ I am a dedicated and resilient cybersecurity professional with a strong passion 
 
 
 ## Work & Internship Experience
-### **Cybersecurity Internship (AWS, Compliance, GRC)**
-- Led a Governance, Risk, and Compliance (GRC) team to assess potential security vulnerabilities within the AWS infrastructure we designed, using the Prowler security tool.
+### **Cybersecurity Internship**
 
-- Conducted a comprehensive security assessment aligned with industry compliance frameworks and delivered a detailed risk analysis report to the client along with risk mitigation suggestions and strategies.
+- Collaborated to design and implement a secure, scalable infrastructure for a three-tier web application hosted on AWS.
+- Conducted comprehensive risk assessments on AWS environments using industry-standard compliance frameworks, including NIST 800-171, NIST 800-53, ISO 27001, and SOC2.
+- Configured a Virtual Private Cloud (VPC) and deployed Amazon EC2 Linux instances to support web application infrastructure, ensuring best practices in security and scalability.
+- Automated security compliance checks using the Prowler tool to evaluate AWS configurations against key compliance frameworks, including NIST 800-171 and SOC2.
+- Created and maintained detailed documentation using Smartsheet, tracking project progress, technical issues, and risk mitigation strategies.
+- Led weekly meetings with cross-functional teams and clients via Microsoft Teams, presenting technical findings in an accessible manner for non-technical stakeholders.
+- Designed and implemented security controls to limit access to essential services, including SSH, HTTP, and HTTPS, while ensuring web service continuity in the event of instance failure or availability zone disruption.
+- Developed architectural diagrams to visually represent the AWS VPC setup and the three-tier application architecture, facilitating project presentations to stakeholders.
+- Generated risk matrices and reports to assess the likelihood and impact of security risks, providing actionable recommendations for remediation and mitigation.
 
 ### **Hawkeye Innovations – NWSL Video Assistant Referee Operator**
 
