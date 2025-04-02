@@ -27,6 +27,12 @@ I am a dedicated and resilient cybersecurity professional with a strong passion 
 
 
 ## Work & Internship Experience
+### **Hawkeye Innovations – Systems Operator**
+
+- Conducted rapid troubleshooting and system diagnostics under high-pressure, time-sensitive conditions.
+- Remotely managed nationwide IT infrastructure, resolving system disruptions and ensuring seamless video and audio connectivity for professional officiating.
+- Configured, maintained, and monitored mission-critical video replay systems for professional NWSL matches, supporting referee decision-making with precise data retrieval.
+- Implemented secure system protocols, access controls, and compliance measures to protect data integrity and prevent unauthorized access within the officiating system.
 ### **Cybersecurity Internship**
 
 - Collaborated to design and implement a secure, scalable infrastructure for a three-tier web application hosted on AWS.
@@ -39,10 +45,6 @@ I am a dedicated and resilient cybersecurity professional with a strong passion 
 - Developed architectural diagrams to visually represent the AWS VPC setup and the three-tier application architecture, facilitating project presentations to stakeholders.
 - Generated risk matrices and reports to assess the likelihood and impact of security risks, providing actionable recommendations for remediation and mitigation.
 
-### **Hawkeye Innovations – NWSL Video Assistant Referee Operator**
-
-- Configured and managed redundant technical systems to ensure seamless operation during professional women’s soccer matches.
-- Provided real-time support to officials, utilizing Video Assistant Referee (VAR) technology to assist with critical game decisions, ensuring accuracy and fairness throughout the match.
 
 ### **Soccer Referee & Mentor**
 - Officiate high level soccer games and mentor new referees in **decision-making and rule enforcement**
