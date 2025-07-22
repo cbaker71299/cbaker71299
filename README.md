@@ -11,7 +11,7 @@ I am a dedicated and resilient cybersecurity professional with a strong passion 
 - **Networking & Web Security**: Firewalls, OWASP Top 10, DDoS Protection, Web Application Security
 
 ## Featured Projects
-### 🔹 **Secure & Scalable AWS Infrastructure for a Three-Tier Web App**
+### **Secure & Scalable AWS Infrastructure for a Three-Tier Web App**
 - Designed and implemented a secure, scalable, and resilient AWS architecture for a client, utilizing the following components:
 
   - Virtual Private Cloud (VPC) with both public and private subnets for network isolation
@@ -19,10 +19,10 @@ I am a dedicated and resilient cybersecurity professional with a strong passion 
   - Elastic Load Balancing (ELB) to ensure high availability and fault tolerance
 
 
-### 🔹 **Database for a Computer Company (Azure, Docker, SQL)**
+### **Database for a Computer Company (Azure, Docker, SQL)**
 - Led a team in developing a normalized relational database to support a mock computer company in efficiently managing customer orders and cataloging detailed specifications for their product offerings.
 
-### 🔹 **AI-Powered Community Engagement Chatbot (Copilot, AI, Web)**
+### **AI-Powered Community Engagement Chatbot (Copilot, AI, Web)**
 - Developed an AI-driven chatbot designed to facilitate communication between government entities and citizens, enhancing community engagement and improving accessibility to   government services and information.
 
 
