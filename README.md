@@ -1,87 +1,118 @@
-# Hi, I'm Courtney Baker!
+<!--
+  ════════════════════════════════════════════════════════════════
+  GITHUB PROFILE README  —  goes in the special repo:  cbaker71299/cbaker71299
+  (a repo named exactly your username renders its README on your profile page)
 
-## About Me
-I am a dedicated and resilient cybersecurity professional with a strong passion for securing cloud environments and implementing best security practices. My expertise spans cloud security, vulnerability management, and automation, and I am deeply committed to staying ahead of the evolving threat landscape. As I actively seek a Cybersecurity Analyst role, particularly in cloud security, I am excited by opportunities that challenge me to grow both personally and professionally. I thrive in dynamic environments where I can continuously learn and apply new technologies to enhance my skills and contribute to robust security solutions. With a drive for excellence and a passion for continuous improvement, I am eager to bring my expertise to a team committed to safeguarding digital assets.
+  ▶ STATUS / TO RE-ENABLE LATER:
+    1. PORTFOLIO LINK — intentionally disabled. Site is live at a temporary
+       Vercel URL but you're waiting on a custom domain (courtneybaker.dev)
+       before listing it anywhere. Search this file for "PORTFOLIO:" to flip
+       it back on once the domain is connected.
+    2. RÉSUMÉ LINK — disabled until your resume is finished and you have a link.
+       Search "RÉSUMÉ:" to re-enable.
+    3. Featured-project links are text-only until each repo is public —
+       we'll wire real links as we build them (Tier S first).
+    4. Phone number omitted on purpose (public profile).
+  ════════════════════════════════════════════════════════════════
+-->
 
-## Areas of Expertise
-- **Cloud Security & IAM**: AWS Security Hub, GuardDuty, AWS IAM, CloudTrail, AWS Inspector, Terraform
-- **Security Monitoring & Incident Response**: SIEM (Splunk), Log Analysis, Threat Detection, Incident Response Playbooks, Wireshark
-- **Vulnerability Management & Compliance**: Qualys Cloud Security, Prowler, Cloud Security Posture Management, Compliance Frameworks
-- **Automation & Infrastructure as Code (IaC)**: Python, Bash, Terraform, Security Task Automation
-- **Networking & Web Security**: Firewalls, OWASP Top 10, DDoS Protection, Web Application Security
+<h1 align="center">Courtney Baker</h1>
 
-## Featured Projects
-### **Secure & Scalable AWS Infrastructure for a Three-Tier Web App**
-- Designed and implemented a secure, scalable, and resilient AWS architecture for a client, utilizing the following components:
+<p align="center">
+  <b>Cybersecurity &times; AI</b> — building at the intersection of security, GRC, and applied machine learning.
+</p>
 
-  - Virtual Private Cloud (VPC) with both public and private subnets for network isolation
-  - EC2 instances to host web servers
-  - Elastic Load Balancing (ELB) to ensure high availability and fault tolerance
-
-
-### **Database for a Computer Company (Azure, Docker, SQL)**
-- Led a team in developing a normalized relational database to support a mock computer company in efficiently managing customer orders and cataloging detailed specifications for their product offerings.
-
-### **AI-Powered Community Engagement Chatbot (Copilot, AI, Web)**
-- Developed an AI-driven chatbot designed to facilitate communication between government entities and citizens, enhancing community engagement and improving accessibility to   government services and information.
-
-
-## Work & Internship Experience
-### **Hawkeye Innovations – Systems Operator**
-
-- Conducted rapid troubleshooting and system diagnostics under high-pressure, time-sensitive conditions.
-- Remotely managed nationwide IT infrastructure, resolving system disruptions and ensuring seamless video and audio connectivity for professional officiating.
-- Configured, maintained, and monitored mission-critical video replay systems for professional NWSL matches, supporting referee decision-making with precise data retrieval.
-- Implemented secure system protocols, access controls, and compliance measures to protect data integrity and prevent unauthorized access within the officiating system.
-### **Cybersecurity Internship**
-
-- Collaborated to design and implement a secure, scalable infrastructure for a three-tier web application hosted on AWS.
-- Conducted comprehensive risk assessments on AWS environments using industry-standard compliance frameworks, including NIST 800-171, NIST 800-53, ISO 27001, and SOC2.
-- Configured a Virtual Private Cloud (VPC) and deployed Amazon EC2 Linux instances to support web application infrastructure, ensuring best practices in security and scalability.
-- Automated security compliance checks using the Prowler tool to evaluate AWS configurations against key compliance frameworks, including NIST 800-171 and SOC2.
-- Created and maintained detailed documentation using Smartsheet, tracking project progress, technical issues, and risk mitigation strategies.
-- Led weekly meetings with cross-functional teams and clients via Microsoft Teams, presenting technical findings in an accessible manner for non-technical stakeholders.
-- Designed and implemented security controls to limit access to essential services, including SSH, HTTP, and HTTPS, while ensuring web service continuity in the event of instance failure or availability zone disruption.
-- Developed architectural diagrams to visually represent the AWS VPC setup and the three-tier application architecture, facilitating project presentations to stakeholders.
-- Generated risk matrices and reports to assess the likelihood and impact of security risks, providing actionable recommendations for remediation and mitigation.
-
-
-### **Soccer Referee & Mentor**
-- Officiate high level soccer games and mentor new referees in **decision-making and rule enforcement**
-
-## Certifications & Education
-- **Pursuing Security+ Certification (Exam Scheduled: April 2025)**
-- **BBA in Computer Information Systems, Concentration in Cybersecurity**
-- **Incoming Master’s Student in Information Systems (Cybersecurity) – August 2025**
-
-## Technical & Soft Skills
-### **Technical Skills**
-✔ Vulnerability Management & Compliance  
-✔ Cloud Security Best Practices & IAM  
-✔ Security Automation & Infrastructure as Code (IaC)  
-✔ Incident Detection & Response  
-✔ Cloud Networking & Firewalls  
-
-### **Soft Skills**
-✔ Collaboration & Teamwork  
-✔ Adaptability & Continuous Learning  
-✔ Attention to Detail  
-✔ Effective Communication  
-✔ Problem-Solving Mindset  
-
-## Personal Interests
-**Gym & Fitness**  
-**Refereeing & Soccer Games**  
-**Attending Technical Events**  
-**Traveling & Vacations**  
-
-## Contact Me
-**Phone**: 404-563-4861  
-**Email**: cbaker71299@gmail.com  
-**LinkedIn**: [linkedin.com/in/courtneybaker71299](https://www.linkedin.com/in/courtneybaker71299/)  
+<p align="center">
+  <a href="https://linkedin.com/in/courtneybaker71299"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:cbaker71299@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- PORTFOLIO: re-enable once custom domain is connected
+  <a href="https://courtneybaker.dev"><img src="https://img.shields.io/badge/Portfolio-courtneybaker.dev-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  -->
+  <!-- RÉSUMÉ: re-enable once you have a resume link
+  <a href="RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Résumé-View-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  -->
+</p>
 
 ---
-*Feel free to check out my repositories to see more details on my projects.*
 
-*Let's connect and collaborate on some projects together!*
+### 👋 About
 
+I'm a **Cybersecurity & AI Specialist** and **M.S. Information Systems candidate** — Cybersecurity & AI concentration at Georgia State University (expected July 2026) — working where two fast-moving fields meet: **securing systems** and **building AI that works in the real world.** My projects span offensive and defensive security, GRC and compliance (NIST CSF 2.0, PCI DSS, HIPAA), and applied ML/GenAI — from a deployed sports-analytics model to red-teaming AI copilots.
+
+- 🛡️ **Security & GRC:** threat intelligence, red-teaming, SOC design, risk quantification, compliance frameworks
+- 🤖 **Applied AI/ML:** GenAI pipelines, agentic systems, adversarial ML, deep learning
+- 🔬 **My niche — AI Security:** the overlap of the two, where I'm strongest
+- 📍 Conyers, GA · **Open to opportunities** in Cybersecurity, GRC, and AI/ML
+
+---
+
+### 🚀 Featured Projects
+
+> Source and live demos publish per project, strongest first — repos are rolling out now.
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **🤖 Smart VAR** | Deployed real-time AI decision-support system for soccer Video Assistant Referees; trained on StatsBomb event data, served via API + dashboard. *Presented at the BICE/INSPIRE national AI conference.* | `Python` `scikit-learn` `Flask` `Streamlit` `AWS Lambda` `TACC HPC` |
+| **🛡️ Operation Chimera** | Red-team assessment of an AI threat-intel copilot — prompt injection, RAG/memory poisoning, encoding bypass; findings mapped to MITRE ATT&CK + ATLAS. | `LLM Security` `MITRE ATLAS` `Prompt Injection` `Docker` |
+| **🎣 Adversarial Phishing-URL Classifier** | ML classifier that detects phishing URLs while resisting typosquats, punycode homographs & subdomain abuse; model card + explainability. | `scikit-learn` `TF-IDF` `Adversarial ML` `XAI` |
+| **📡 Threat Hunters — CTI Dashboard** | Multi-page threat-intel dashboard aggregating 9 live threat feeds (URLhaus, CISA KEV, Ransomwatch, PhishStats, FDIC) with composite risk scoring + Diamond Model. | `Streamlit` `Python` `Pandas` `STIX/TAXII` |
+| **🏥 Ridgeway SOC Engagement** | Enterprise cybersecurity capstone: FAIR-quantified risk, NIST CSF 2.0 maturity, HIPAA alignment, hybrid SOC architecture + multi-year roadmap. | `NIST CSF 2.0` `FAIR` `MITRE ATT&CK` `HIPAA` `GRC` |
+| **🩺 Healthcare GenAI SOAP Notes** | GenAI pipeline turning clinician–patient audio into structured SOAP notes (Whisper → GPT-4 → access-controlled doc) via no-code orchestration. | `GPT-4` `Whisper` `n8n` `NLP` |
+
+---
+
+### 🧰 Tech & Skills
+
+**Cybersecurity & GRC**
+
+![NIST](https://img.shields.io/badge/NIST_CSF_2.0-1f6feb?style=flat-square)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK_/_ATLAS-c00?style=flat-square)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-005c98?style=flat-square)
+![HIPAA](https://img.shields.io/badge/HIPAA-0a7d33?style=flat-square)
+![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-6e40c9?style=flat-square)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![STIX](https://img.shields.io/badge/STIX%2FTAXII-333?style=flat-square)
+
+**AI / Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square)
+![OpenAI](https://img.shields.io/badge/GPT--4_/_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Languages & Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🎓 Education & Highlights
+
+- **M.S. Information Systems** — Cybersecurity & AI concentration, Georgia State University · *Expected July 2026* · **GPA 3.95**
+- **B.B.A. Computer Information Systems** — Cybersecurity concentration, Georgia State University
+- **AI Post-Baccalaureate Program** (12-week), Morehouse College — capstone: *Smart VAR*
+- 🎤 Presented *Smart VAR* at the **BICE/INSPIRE national AI conference** (Miami)
+
+---
+
+<p align="center">
+  <i>Currently open to roles in Cybersecurity, GRC, and AI/ML.</i><br>
+  📫 <a href="mailto:cbaker71299@gmail.com">cbaker71299@gmail.com</a> ·
+  🔗 <a href="https://linkedin.com/in/courtneybaker71299">LinkedIn</a>
+  <!-- · 🌐 <a href="https://courtneybaker.dev">courtneybaker.dev</a>  ← re-enable with custom domain -->
+</p>
