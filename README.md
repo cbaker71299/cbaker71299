@@ -1,118 +1,99 @@
-<!--
-  ════════════════════════════════════════════════════════════════
-  GITHUB PROFILE README  —  goes in the special repo:  cbaker71299/cbaker71299
-  (a repo named exactly your username renders its README on your profile page)
+Hi! I'm [Courtney](https://linkedin.com/in/courtneybaker71299).
 
-  ▶ STATUS / TO RE-ENABLE LATER:
-    1. PORTFOLIO LINK — intentionally disabled. Site is live at a temporary
-       Vercel URL but you're waiting on a custom domain (courtneybaker.dev)
-       before listing it anywhere. Search this file for "PORTFOLIO:" to flip
-       it back on once the domain is connected.
-    2. RÉSUMÉ LINK — disabled until your resume is finished and you have a link.
-       Search "RÉSUMÉ:" to re-enable.
-    3. Featured-project links are text-only until each repo is public —
-       we'll wire real links as we build them (Tier S first).
-    4. Phone number omitted on purpose (public profile).
-  ════════════════════════════════════════════════════════════════
--->
+A cybersecurity x AI devotee in Atlanta, Georgia, I design, build, and manage secure and intelligent systems to solve enterprise-grade problems.
 
-<h1 align="center">Courtney Baker</h1>
+My work blends cybersecurity, artificial intelligence, cloud, data, and software engineering.
 
-<p align="center">
-  <b>Cybersecurity &times; AI</b> — building at the intersection of security, GRC, and applied machine learning.
-</p>
+In just a few short weeks, I'll have officially completed a Master of Science in Information Systems, Cybersecurity & AI from Georgia State University's J. Mack Robinson College of Business — where I also received my B.B.A. in Computer Information Systems, Cybersecurity.
 
-<p align="center">
-  <a href="https://linkedin.com/in/courtneybaker71299"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:cbaker71299@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- PORTFOLIO: re-enable once custom domain is connected
-  <a href="https://courtneybaker.dev"><img src="https://img.shields.io/badge/Portfolio-courtneybaker.dev-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  -->
-  <!-- RÉSUMÉ: re-enable once you have a resume link
-  <a href="RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Résumé-View-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
-  -->
-</p>
+Alongside my studies, I currently work as a Graduate Research Assistant for GSU's CIS Department. In my free time, I referee soccer games :)
 
----
+## Experience
 
-### 👋 About
+**HawkEye Innovations — Video Replay Operator** *(live professional women's soccer, NWSL)*
+- Validate full system integrity pre-match, including strict PAM (Privileged Access Management) compliance while supporting remote team members.
+- Assist match officials during live games by maintaining and operating 11 synchronized camera feeds across 3–5 interconnected workstations, delivering fast, optimal, and accurate replay angles of critical match incidents for game review.
+- Deliver real-time incident response, diagnosing and resolving simultaneous high-priority issues (camera sync, system access, audio, display) — combining deep technical understanding of HawkEye's systems with expertise officiating high-level soccer matches.
+- Document all event incidents in detail and execute secure FTP transfer of post-match video and audio assets.
 
-I'm a **Cybersecurity & AI Specialist** and **M.S. Information Systems candidate** — Cybersecurity & AI concentration at Georgia State University (expected July 2026) — working where two fast-moving fields meet: **securing systems** and **building AI that works in the real world.** My projects span offensive and defensive security, GRC and compliance (NIST CSF 2.0, PCI DSS, HIPAA), and applied ML/GenAI — from a deployed sports-analytics model to red-teaming AI copilots.
+**Georgia State University — Cybersecurity Intern** *(GSU Senior Cybersecurity Team)*
+- Simulated a 4-month enterprise engagement with full project lifecycle execution: AWS, NIST, and Qualys training, cross-functional collaborative teams, weekly stakeholder meetings, and sprint-based status updates.
+- Assisted in the development of a secure three-tier AWS web application; ran automated compliance scanning with Prowler and Qualys on live AWS architectures; mapped 30+ findings to NIST 800-171 and NIST CSF; produced GRC engagement deliverables, maturity assessments, and a prioritized risk matrix.
+- Mitigated 100% of medium-to-high risks through cross-functional collaboration; delivered executive-ready documentation and earned "exceeded expectations" client feedback.
 
-- 🛡️ **Security & GRC:** threat intelligence, red-teaming, SOC design, risk quantification, compliance frameworks
-- 🤖 **Applied AI/ML:** GenAI pipelines, agentic systems, adversarial ML, deep learning
-- 🔬 **My niche — AI Security:** the overlap of the two, where I'm strongest
-- 📍 Conyers, GA · **Open to opportunities** in Cybersecurity, GRC, and AI/ML
+**Tech Mahindra — Quality Assurance Analyst**
+- Evaluate AI-generated web-search outputs using structured scoring frameworks to assess accuracy, usefulness, and risk.
+- Synthesize detailed findings into client-facing presentations for weekly debugging review and validation.
 
----
+**Morehouse College — Post-Baccalaureate Machine Learning Technician Bootcamp**
+- Completed a 12-week full-time AI/ML program building end-to-end pipelines in Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras) across supervised, unsupervised (K-means, PCA), deep learning (CNNs), and reinforcement learning.
+- Delivered labs on real datasets (StatsBomb events, Flint water quality, Mall Customer segmentation, salary/car-price regression) with cross-validation, learning curves, and confusion-matrix evaluation; deployed models on AWS SageMaker and Azure ML Studio, and trained on TACC HPC. Earned a $2,000 completion stipend.
 
-### 🚀 Featured Projects
+**United Parcel Service (UPS) — Operations Control Specialist**
+- Oversaw sorting, scanning, and networked control systems from UPS's 24/7 operations control room powering the entire Smart Hub Warehouse — maintaining >99% operational uptime during peak shifts processing thousands of packages per hour.
 
-> Source and live demos publish per project, strongest first — repos are rolling out now.
+## Areas of Interest
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **🤖 Smart VAR** | Deployed real-time AI decision-support system for soccer Video Assistant Referees; trained on StatsBomb event data, served via API + dashboard. *Presented at the BICE/INSPIRE national AI conference.* | `Python` `scikit-learn` `Flask` `Streamlit` `AWS Lambda` `TACC HPC` |
-| **🛡️ Operation Chimera** | Red-team assessment of an AI threat-intel copilot — prompt injection, RAG/memory poisoning, encoding bypass; findings mapped to MITRE ATT&CK + ATLAS. | `LLM Security` `MITRE ATLAS` `Prompt Injection` `Docker` |
-| **🎣 Adversarial Phishing-URL Classifier** | ML classifier that detects phishing URLs while resisting typosquats, punycode homographs & subdomain abuse; model card + explainability. | `scikit-learn` `TF-IDF` `Adversarial ML` `XAI` |
-| **📡 Threat Hunters — CTI Dashboard** | Multi-page threat-intel dashboard aggregating 9 live threat feeds (URLhaus, CISA KEV, Ransomwatch, PhishStats, FDIC) with composite risk scoring + Diamond Model. | `Streamlit` `Python` `Pandas` `STIX/TAXII` |
-| **🏥 Ridgeway SOC Engagement** | Enterprise cybersecurity capstone: FAIR-quantified risk, NIST CSF 2.0 maturity, HIPAA alignment, hybrid SOC architecture + multi-year roadmap. | `NIST CSF 2.0` `FAIR` `MITRE ATT&CK` `HIPAA` `GRC` |
-| **🩺 Healthcare GenAI SOAP Notes** | GenAI pipeline turning clinician–patient audio into structured SOAP notes (Whisper → GPT-4 → access-controlled doc) via no-code orchestration. | `GPT-4` `Whisper` `n8n` `NLP` |
+AI/ML · Cyber Threat Intelligence · AI Security · Cloud Security · GRC · Full-Stack Development · Data-Driven Decision Support
 
----
-
-### 🧰 Tech & Skills
+## Tech & Skills
 
 **Cybersecurity & GRC**
 
-![NIST](https://img.shields.io/badge/NIST_CSF_2.0-1f6feb?style=flat-square)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK_/_ATLAS-c00?style=flat-square)
+![NIST CSF 2.0](https://img.shields.io/badge/NIST_CSF_2.0-1f6feb?style=flat-square)
+![MITRE ATT&CK / ATLAS](https://img.shields.io/badge/MITRE_ATT%26CK_/_ATLAS-c00?style=flat-square)
 ![PCI DSS](https://img.shields.io/badge/PCI_DSS-005c98?style=flat-square)
 ![HIPAA](https://img.shields.io/badge/HIPAA-0a7d33?style=flat-square)
-![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-6e40c9?style=flat-square)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0e639c?style=flat-square)
+![SOC 2](https://img.shields.io/badge/SOC_2-1e88e5?style=flat-square)
+![COBIT](https://img.shields.io/badge/COBIT-37474f?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-263238?style=flat-square)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-6e40c9?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![STIX](https://img.shields.io/badge/STIX%2FTAXII-333?style=flat-square)
+![STIX/TAXII](https://img.shields.io/badge/STIX%2FTAXII-333?style=flat-square)
 
 **AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square)
-![OpenAI](https://img.shields.io/badge/GPT--4_/_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![GPT-4 / Whisper](https://img.shields.io/badge/GPT--4_/_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Cloud & Data**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Languages & Web**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+## Featured Projects
 
-### 🎓 Education & Highlights
+After some serious thought — **Smart VAR** and my **personal portfolio website** are at the top, with my Streamlit CTI platform for online banking ([Threat Hunters](https://github.com/cbaker71299/threat-huntersCTI)) and my **Network Hacking Lab** as a very close second.
 
-- **M.S. Information Systems** — Cybersecurity & AI concentration, Georgia State University · *Expected July 2026* · **GPA 3.95**
-- **B.B.A. Computer Information Systems** — Cybersecurity concentration, Georgia State University
-- **AI Post-Baccalaureate Program** (12-week), Morehouse College — capstone: *Smart VAR*
-- 🎤 Presented *Smart VAR* at the **BICE/INSPIRE national AI conference** (Miami)
+I've built systems for real-time sports officiating, healthcare GenAI documentation, cyber threat intelligence, phishing detection, SOC strategy, cloud security, relational databases, network defense, and interactive web experiences.
 
----
+In this space, you can find some of my favorite projects pinned below. Please feel free to take a look around, and don't hesitate to reach out — I'm always happy to connect.
 
-<p align="center">
-  <i>Currently open to roles in Cybersecurity, GRC, and AI/ML.</i><br>
-  📫 <a href="mailto:cbaker71299@gmail.com">cbaker71299@gmail.com</a> ·
-  🔗 <a href="https://linkedin.com/in/courtneybaker71299">LinkedIn</a>
-  <!-- · 🌐 <a href="https://courtneybaker.dev">courtneybaker.dev</a>  ← re-enable with custom domain -->
-</p>
+[LinkedIn](https://linkedin.com/in/courtneybaker71299) · [Email](mailto:cbaker71299@gmail.com)
