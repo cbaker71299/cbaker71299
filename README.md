@@ -16,6 +16,14 @@ Use this GitHub to explore my technical work, review my project documentation, s
 
 AI/ML • Cloud Security • Cybersecurity/GRC • Threat Intelligence • Secure System Design • Software Engineering • Data-Driven Automation
 
+## Education & Credentials
+
+- **M.S. in Information Systems, Cybersecurity** — Georgia State University, expected July 2026
+- **B.B.A. in Computer Information Systems, Cybersecurity** — Georgia State University
+- **CompTIA Security+**
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Cloud Practitioner**
+
 ## What You'll Find Here
 
 - Project documentation and technical writeups
