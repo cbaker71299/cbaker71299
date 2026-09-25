@@ -1,35 +1,11 @@
-# Hi, I'm Courtney! Welcome to my GitHub :)
+# Hi, I'm Courtney! 
 
-I'm a Technical Solutions Engineer based in Atlanta, Georgia.
+I’ve truly had a blast here but these developers are so mean lolol! 
+Granted - I’ll finally admit that I am not a good «coder». I hadn’t realized how much of an affect my actions were having on others.
 
-I apply AI, cybersecurity, cloud computing, and software development to design systems that are secure, intelligent, and built for real-world impact. My background has trained me to think like both an engineer and an analyst, combining real-time operations judgment, cybersecurity/GRC expertise, AI/ML technical ability, cloud security experience, and clear technical communication.
+   Y'all are wrong though. 
 
-Use this GitHub to explore my technical work, review my project documentation, see the tools and technologies I use, and understand how I approach problem-solving.
 
-## Featured Projects
+Moving on - These respositories served as a collection of some personal side quests I thought would be cool, mixed in with some research I comepleted in school. I’m more than happy to answer any questions! 
 
-- **Smart VAR** — Machine learning system for predicting high-risk soccer incidents and supporting faster replay decisions.
-- **Healthcare GenAI SOAP Note Automation** — AI pipeline that turns clinical conversations into structured SOAP notes using speech-to-text, RAG, and LLMs.
-- **Operation Chimera** — AI security red-team assessment exploring prompt injection, RAG injection, memory poisoning, and LLM tool-abuse risks.
-
-## Technical Focus Areas
-
-AI/ML • Cloud Security • Cybersecurity/GRC • Threat Intelligence • Secure System Design • Software Engineering • Data-Driven Automation
-
-## Education & Credentials
-
-- **M.S. in Information Systems, Cybersecurity** — Georgia State University, expected July 2026
-- **B.B.A. in Computer Information Systems, Cybersecurity** — Georgia State University
-- **CompTIA Security+**
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified Cloud Practitioner**
-
-## What You'll Find Here
-
-- Project documentation and technical writeups
-- Source code, notebooks, dashboards, and APIs
-- Cloud security, GRC, and compliance work
-- AI/ML models, pipelines, and experiments
-- Architecture diagrams, reports, and lessons learned
-
-Thanks for visiting! Feel free to explore my projects, and connect with me by email, LinkedIn, or my portfolio if you have questions, collaboration ideas, or professional opportunities.
+My email is cbaker71299@gmail.com
