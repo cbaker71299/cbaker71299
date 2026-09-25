@@ -1,6 +1,7 @@
-# Hi, I'm Courtney! 
+Hi, I'm Courtney! 
 
 I’ve truly had a blast here but these developers are so mean lolol! 
+
 Granted - I’ll finally admit that I am not a good «coder». I hadn’t realized how much of an affect my actions were having on others.
 
    Y'all are wrong though. 
